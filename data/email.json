@@ -1,0 +1,7 @@
+{
+    "email": "teste@gmail.com",
+    "senha": "senha",
+    "nome_banco": "banco_teste",
+    "usuario_banco": "postgres",
+    "senha_banco": "postgres"
+}
