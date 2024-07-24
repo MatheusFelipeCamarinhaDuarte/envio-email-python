@@ -1,8 +1,7 @@
 app/keys/cred/
-main-dev.spec/
-main-prod.spec/
-teste.py/
-teste_automatico.py/
-teste.spec/
 dist/
-bild/
+build/
+main-prod.spec
+main-dev.spec
+teste_automatico.py
+teste.py
