@@ -1,4 +1,5 @@
 app/keys/cred/
+app/icons
 dist/
 build/
 main-prod.spec
